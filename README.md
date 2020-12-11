@@ -1,6 +1,6 @@
-# Image generation
+# Thumbnail Generator
 
-Gerador de imagens thumbnail com Node.js
+📸 Gerador de imagens thumbnail com Node.js
 
 ![Exemplo](thumbnail.png)
 
@@ -13,8 +13,8 @@ Você vai precisar do [git](https://git-scm.com/), do [Node.js](https://nodejs.o
 - Primeiro clone o repositório e entre na pasta criada
 
     ```bash
-    git clone https://github.com/GuilhermeBalog/repo
-    cd repo
+    git clone https://github.com/GuilhermeBalog/thumbnail-generator.git
+    cd thumbnail-generator
     ```
 
 - Instale as dependências
@@ -34,6 +34,8 @@ Você vai precisar do [git](https://git-scm.com/), do [Node.js](https://nodejs.o
     ```
 
 Isso vai gerar uma thumbnail num arquivo chamado `thumbnail.png`
+
+## E como personalizar?
 
 Para configurar as cores, o nome do rodapé e a foto, basta editar o arquivo `config.json`:
 
