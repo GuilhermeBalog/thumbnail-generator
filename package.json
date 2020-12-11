@@ -1,0 +1,17 @@
+{
+  "name": "node-canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guilherme Balog Gardino <guibalog@gmail.com> (https://guilhermebalog.github.io)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
